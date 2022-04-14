@@ -1,0 +1,5 @@
+C:\Users\TCL\source\repos\ShoppingCart\ShoppingCart.Utility\obj\Release\net6.0\ShoppingCart.Utility.csproj.AssemblyReference.cache
+C:\Users\TCL\source\repos\ShoppingCart\ShoppingCart.Utility\obj\Release\net6.0\ShoppingCart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCL\source\repos\ShoppingCart\ShoppingCart.Utility\obj\Release\net6.0\ShoppingCart.Utility.AssemblyInfoInputs.cache
+C:\Users\TCL\source\repos\ShoppingCart\ShoppingCart.Utility\obj\Release\net6.0\ShoppingCart.Utility.AssemblyInfo.cs
+C:\Users\TCL\source\repos\ShoppingCart\ShoppingCart.Utility\obj\Release\net6.0\ShoppingCart.Utility.csproj.CoreCompileInputs.cache
